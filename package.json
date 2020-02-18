@@ -1,0 +1,13 @@
+{
+  "name": "notebooks-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {},
+  "author": "Sanjay Kumar Nishad",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "request": "^2.88.0"
+  }
+}
